@@ -1,12 +1,24 @@
-# React + Vite
+# Pakistani Store Clone 🛒 (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **React-based homepage clone** of a typical Pakistani e-commerce store. It showcases modern UI components, and clean design using React, CSS, and minimal JavaScript logic.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ✅ React Functional Components
+- ✅ Navigation Bar with Logo/Menu
+- ✅ Hero Section with Call-to-Action
+- ✅ Featured Products Section
+- ✅ Hover Effects on Cards
+- ✅ Footer with Links
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+
+- ⚛️ **React.js** – Component-based frontend library  
+- 🎨 **CSS3** – For styling and layout  
+- 📦 **Vite / CRA** – (whichever you used for setup)
+
+---
