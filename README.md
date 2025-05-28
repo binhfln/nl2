@@ -22,3 +22,18 @@ This is a **React-based homepage clone** of a typical Pakistani e-commerce store
 - 📦 **Vite / CRA** – (whichever you used for setup)
 
 ---
+
+## 🧪 How to Run Locally
+
+```bash
+# Clone the repository
+git clone https://github.com/itsagharaza/Pakistani-store-clone.git
+
+# Go into the project directory
+cd Pakistani-store-clone
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev  # or: npm start (if using CRA)
