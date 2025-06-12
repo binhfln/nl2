@@ -129,4 +129,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Thank you for checking out the **Pakistani Store Clone**! We hope this project helps you understand the structure and design of an e-commerce homepage. Feel free to explore, contribute, and learn.
 
-For more updates and releases, visit the [Releases section](https://github.com/Alpha2007-hub/Pakistani-store-clone/releases).
+For more updates and releases, visit the [Releases section](https://github.com/Alpha2007-hub/Pakistani-store-clone/releases).# nl2
